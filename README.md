@@ -15,5 +15,26 @@ This are some of the problems that me and my colleges had to solve in the class 
 
    [Report (Portuguese)](https://github.com/CyrillBrito/POO/blob/master/The%20Round%20Table%20of%20the%20Knights/doc/Report.pdf)
 
-
 * Problem 2: Raiders of the lost figures
+
+   [Problem](https://github.com/CyrillBrito/POO/tree/master/Raiders%20of%20the%20lost%20figures/doc/Problem.pdf)
+
+   [Solution](https://github.com/CyrillBrito/POO/tree/master/Raiders%20of%20the%20lost%20figures/src)
+
+   [Report (Portuguese)](https://github.com/CyrillBrito/POO/tree/master/Raiders%20of%20the%20lost%20figuresdoc/Report.pdf)
+
+* Problem 3: Sparse polynomials
+
+   [Problem](https://github.com/CyrillBrito/POO/tree/master/Sparse%20Polynomials/doc/Problem.pdf)
+
+   [Solution](https://github.com/CyrillBrito/POO/tree/master/Sparse%20Polynomials/src)
+
+   [Report (Portuguese)](https://github.com/CyrillBrito/POO/tree/master/Sparse%20Polynomials/doc/Report.pdf)
+
+* Problem 4: 24
+
+   [Problem](https://github.com/CyrillBrito/POO/tree/master/24/doc/Problem.pdf)
+
+   [Solution](https://github.com/CyrillBrito/POO/tree/master/24/src)
+
+   [Report (Portuguese)](https://github.com/CyrillBrito/POO/tree/master/24/doc/Report.pdf)
