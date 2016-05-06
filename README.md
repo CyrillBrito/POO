@@ -4,7 +4,7 @@ POO - Programação Orientada por Objetos (Portuguese)
 
 OOP - Object-oriented programming
 
-This are some of the problems that me and my colleges had to solve in the class of OOP. The professor of the class was José Valente de Oliveira (jvo@ualg.pt). For this class we learned and used java. You can see the solved problems in my
+This are some of the problems that me and my colleges had to solve in the class OOP. The professor of the class was José Valente de Oliveira (jvo@ualg.pt). For this class we learned and used java. You can see the solved problems in my
 [GitHub](https://github.com/CyrillBrito/POO)
 
 * Problem 1: The Round Table of the Knights
@@ -21,7 +21,7 @@ This are some of the problems that me and my colleges had to solve in the class 
 
    [Solution](https://github.com/CyrillBrito/POO/tree/master/Raiders%20of%20the%20lost%20figures/src)
 
-   [Report (Portuguese)](https://github.com/CyrillBrito/POO/tree/master/Raiders%20of%20the%20lost%20figuresdoc/Report.pdf)
+   [Report (Portuguese)](https://github.com/CyrillBrito/POO/tree/master/Raiders%20of%20the%20lost%20figures/doc/Report.pdf)
 
 * Problem 3: Sparse polynomials
 
