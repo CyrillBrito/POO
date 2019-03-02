@@ -1,6 +1,4 @@
-# POO
-
-POO - Programação Orientada por Objetos (Portuguese)
+# OOP
 
 OOP - Object-oriented programming
 
