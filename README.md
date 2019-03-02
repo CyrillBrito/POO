@@ -1,4 +1,4 @@
-# Object-oriented Programming
+# Object-Oriented Programming
 
 This are some of the problems that me and my colleges had to solve in the class OOP. The professor of the class was José Valente de Oliveira (jvo@ualg.pt). For this class we learned and used java. You can see the solved problems in my
 [GitHub](https://github.com/CyrillBrito/POO)
